@@ -1,0 +1,5 @@
+[dependency-groups]
+dev = [
+    "nltk>=3.9.4",
+    "pandas-datareader>=0.10.0",
+]
