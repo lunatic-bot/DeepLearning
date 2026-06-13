@@ -6,3 +6,4 @@ projectEnv
 .dlenv
 Side
 CodeNotebooks\FaceRecognitionAttendence\.venv
+CodeNotebooks/.gradio
